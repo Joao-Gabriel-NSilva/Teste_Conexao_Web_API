@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace teste_API
+namespace Teste_API.Model
 {
     public class Cotacao
     {

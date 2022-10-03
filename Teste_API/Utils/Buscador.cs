@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace teste_API
+namespace Teste_API.Utils
 {
     public class Buscador
     {
@@ -32,6 +32,6 @@ namespace teste_API
                 return json;
             }
             return json;
-        } 
+        }
     }
 }

@@ -4,8 +4,9 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Teste_API.Model;
 
-namespace teste_API
+namespace Teste_API.Utils
 {
     public class DAO
     {
@@ -13,7 +14,7 @@ namespace teste_API
 
         public DAO(string connectionString)
         {
-            this._connectionString = connectionString;
+            _connectionString = connectionString;
         }
         public object ProcuraMoedaID(string cod)
         {

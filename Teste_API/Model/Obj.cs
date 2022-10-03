@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace teste_API
+namespace Teste_API.Model
 {
     public class Obj
     {

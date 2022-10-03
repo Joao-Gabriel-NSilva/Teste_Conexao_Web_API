@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
-using teste_API;
+using Teste_API.Model;
+using Teste_API.Utils;
 
 
 // Busca na API web
